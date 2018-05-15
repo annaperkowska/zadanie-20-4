@@ -9,7 +9,6 @@ render(
     	<Router routes={routes} history={hashHistory}>
     		
     	</Router>
-    	</div>
     </Provider>,
     document.getElementById('root')
 );
